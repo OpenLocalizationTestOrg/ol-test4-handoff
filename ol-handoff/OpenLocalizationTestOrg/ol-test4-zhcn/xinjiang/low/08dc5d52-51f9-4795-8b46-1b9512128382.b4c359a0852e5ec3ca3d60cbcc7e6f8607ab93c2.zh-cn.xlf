@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6be57c5" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2ca75b5e84e004729f7202f741529d3440fa77c4</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\f7f7fca8-dbed-40b0-93b8-fb0e1e6e0317.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">790cf749fd45493053c66260a8657df76d033e25</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\08dc5d52-51f9-4795-8b46-1b9512128382.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">low</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8aed22c5bbcf15977b90f3f5b84825888b073a4c</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d5e99555af2ca78671b5644f8cfc9cd1ed07162a</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">572864ae090a28f798069f4f25b729323e6b00d6</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d25b1bae2536e191184644b4dda76c1197d26c70</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>OpenLocalization Workflow Test MarkDown 10967a71-7e06-4758-9fd2-ba9e5ea5d233 thanks!</source>
+          <source>OpenLocalization Workflow Test MarkDown 691285f7-9314-4d4d-8417-c29c2ce2872b thanks!</source>
         </trans-unit>
       </group>
     </body>
