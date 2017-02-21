@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6be57c5" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">22bcea99c55f8cf57e0249160ad56d88ded56c81</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6904f6ad47f3c143ee91a629fc02dd453b0e7d8a</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\a9e1cc1e-d962-4b1f-8160-02939567b839.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9d65f911ca1bb44ffcbfcaeb04632c0077e5da33</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f4338fc9c85d6a1af8f28925584e7103b11e233e</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8f01537433f762017e8fe1e0debe141704306293</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">13f8bfc08ab2295718a060dea01331e202004820</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,7 +16,7 @@
           <source>OpenLocalization Workflow Test MarkDown</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>90da9089-5dc9-40d2-8646-ee0d6f57aabe thanks!</source>
+          <source>a5494f7e-f150-4596-812a-1d8c74ca083a thanks!</source>
         </trans-unit>
       </group>
     </body>
